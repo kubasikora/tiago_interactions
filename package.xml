@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>tiago_interactions</name>
+  <version>0.0.0</version>
+  <description>The tiago_interactions package</description>
+  <maintainer email="jakub.sikora2.stud@pw.edu.pl">Jakub Sikora</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>pardon_action_server</exec_depend>
+  <exec_depend>repeat_action_server</exec_depend>
+</package>
